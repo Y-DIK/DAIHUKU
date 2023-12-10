@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-10T13:04:29.277Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="0k3_bhwifTPBMhR6GKMg" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-10T13:05:06.420Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="a26GAu4kZ5SRiWzJm24W" version="22.1.7" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="694" dy="505" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -173,7 +173,7 @@
             <mxRectangle width="30" height="70" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="axUzNBKDAucZ-aRcxx2G-10" value="title&#xa;body&#xa;category&#xa;created_at&#xa;updated_at" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="axUzNBKDAucZ-aRcxx2G-8">
+        <mxCell id="axUzNBKDAucZ-aRcxx2G-10" value="title&#xa;body&#xa;created_at&#xa;updated_at" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="axUzNBKDAucZ-aRcxx2G-8">
           <mxGeometry x="30" width="220" height="70" as="geometry">
             <mxRectangle width="220" height="70" as="alternateBounds" />
           </mxGeometry>
